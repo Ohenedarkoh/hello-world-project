@@ -40,25 +40,20 @@
 
 
 <details>
-  <summary>Client</summary>
+  <summary>Standard Markup Language</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>style</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://www.w3schools.com/css/css_intro.asp">CSS</a></li>
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+
 
 
 
@@ -66,9 +61,9 @@
 
 
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[TEXTS]**
+- **[LINTERS]**
+- **[STYLE]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,32 +124,23 @@ You can deploy this project using:
 
 
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="Author"></a>
 
-
-
-👤 **Author1**
+**FRANK OHENE-DARKOH**
 
 - GitHub: [@Ohenedarkoh](https://github.com/Ohenedarkoh)
 - Twitter: [@ohenedarkohh](https://twitter.com/ohenedarkohh)
 - LinkedIn: [Frank Ohene-Darkoh](https://linkedin.com/in/FrankOhene-Darkoh)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[CONTENTS]**
+- [ ] **[ABOUT]**
+- [ ] **[IMAGE]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,21 +173,6 @@ If you like this project, please feel free to share or suggest additional featur
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 📝 License <a name="license"></a>
